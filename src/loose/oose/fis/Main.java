@@ -12,13 +12,6 @@ import java.util.ArrayList;
 public class Main {
 
     public static void main(String[] args) {
-        String[] xmlList = new String[3];
-        xmlList[0] = "<tag>";
-        xmlList[1] = "valoare";
-        xmlList[2] = "</tag>";
-
-        Document xml = new XML(xmlList);
-
 
         String[] xmlList = new String[6];
         xmlList[0] = "<tag1>";
